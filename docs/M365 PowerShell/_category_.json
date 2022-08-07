@@ -1,0 +1,8 @@
+{
+    "label": "M365 PowerShell",
+    "position": 4,
+    "link": {
+      "type": "generated-index",
+      "description": "This steps below show how you can connect to Microsoft 365 PowerShell."
+    }
+  }
