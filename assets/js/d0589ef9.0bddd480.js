@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmykb=self.webpackChunkmykb||[]).push([[7684],{6430:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/mykb/blog/tags/hola","allTagsPath":"/mykb/blog/tags","count":1}')}}]);

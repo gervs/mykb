@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmykb=self.webpackChunkmykb||[]).push([[7778],{2401:e=>{e.exports=JSON.parse('{"permalink":"/mykb/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
